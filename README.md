@@ -41,6 +41,5 @@ Repositori ini berisi berbagai file Python, masing-masing menampilkan lirik dari
 
 ---
 
-Jika Anda memiliki preferensi khusus atau ingin menambahkan fitur tertentu, jangan ragu untuk menghubungi saya. Saya siap membantu Anda mengembangkan repositori ini lebih lanjut.
-::contentReference[oaicite:4]{index=4}
+Yang mau request lirik ke Telegram ku di bio github
  
